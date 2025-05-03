@@ -13,7 +13,7 @@ export default function Home() {
       <Header />
       <main className="flex-1 bg-gradient-to-b from-rose-50 to-white">
         <div className="container mx-auto px-4 py-8">
-          <h1 className="text-3xl sm:text-4xl font-bold text-center mb-2 text-rose-600">Instagram Image Generator</h1>
+          <h1 className="text-3xl sm:text-4xl font-bold text-center mb-2 text-rose-600">NJ Instagram Image Generator</h1>
           <p className="text-center text-gray-600 mb-8">
             Transform product photos into Instagram-ready posts with custom branding
           </p>
