@@ -15,7 +15,7 @@ export default function Home() {
         <div className="container mx-auto px-4 py-8">
           <h1 className="text-3xl sm:text-4xl font-bold text-center mb-2 text-rose-600">Instagram Image Generator</h1>
           <p className="text-center text-gray-600 mb-8">
-            Transform your product photos into Instagram-ready posts with custom branding
+            Transform product photos into Instagram-ready posts with custom branding
           </p>
           <ImageGenerator />
         </div>
